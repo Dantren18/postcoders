@@ -6,7 +6,20 @@
 }
 
 .App {
-  height: 90vh;
-  width: 90vw;
+  height: 90%;
+  width: 100%;
   border: solid grey 2px;
+  padding: 20px;
+}
+
+.outcodeEntry {
+  width: 400px;
+}
+
+.cardContainer {
+  margin-top: 30px;
+  padding: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
